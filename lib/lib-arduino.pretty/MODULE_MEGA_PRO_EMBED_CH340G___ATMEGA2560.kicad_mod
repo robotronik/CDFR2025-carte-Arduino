@@ -206,8 +206,48 @@
   (pad "VIN_2" thru_hole circle (at -25.2 15.24) (size 1.6764 1.6764) (drill 0.8) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp 99a56f6f-2c86-40f0-b2cf-1e72b01bce90))
   (model "${KIPRJMOD}/lib/3D Arduino/MEGA 2560 PRO (EMBED).stp"
-    (offset (xyz 0 0 0))
+    (offset (xyz 0 0 10))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
+  )
+  (model "${KIPRJMOD}/lib/3D Arduino/PinHeader_2x03_P2.54mm_Vertical.step"
+    (offset (xyz 25.5 0 10))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
+  (model "${KIPRJMOD}/lib/3D Arduino/PinHeader_2x16_P2.54mm_Vertical.step"
+    (offset (xyz 25.5 15.5 10))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 90))
+  )
+  (model "${KIPRJMOD}/lib/3D Arduino/PinHeader_2x21_P2.54mm_Vertical.step"
+    (offset (xyz 25.5 -17.75 10))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 90))
+  )
+  (model "${KIPRJMOD}/lib/3D Arduino/PinSocket_2x03_P2.54mm_Vertical.step"
+    (offset (xyz 25.5 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/lib/3D Arduino/PinSocket_2x16_P2.54mm_Vertical.step"
+    (offset (xyz 25.5 15 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
+  (model "${KIPRJMOD}/lib/3D Arduino/PinSocket_2x21_P2.54mm_Vertical.step"
+    (offset (xyz 25.5 -17.75 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
+  (model "${KIPRJMOD}/lib/3D Arduino/PinSocket_2x03_P2.54mm_Vertical.step"
+    (offset (xyz 25.5 12.75 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/lib/3D Arduino/PinHeader_2x03_P2.54mm_Vertical.step"
+    (offset (xyz 25.5 12.75 10))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
   )
 )

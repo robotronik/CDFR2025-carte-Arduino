@@ -2,5 +2,6 @@
   (version 7)
   (lib (name "lib-arduino")(type "KiCad")(uri "${KIPRJMOD}/lib/lib-arduino.pretty")(options "")(descr ""))
   (lib (name "TerminalBlockBend")(type "KiCad")(uri "${KIPRJMOD}/lib/TerminalBlockBend.pretty")(options "")(descr ""))
-  (lib (name "lib-buck-converter")(type "KiCad")(uri "${KIPRJMOD}/lib/lib-buck-converter.pretty")(options "")(descr ""))
+  (lib (name "A4988")(type "KiCad")(uri "${KIPRJMOD}/lib/A4988.pretty")(options "")(descr ""))
+  (lib (name "lm2596")(type "KiCad")(uri "${KIPRJMOD}/lib/LM2596.pretty")(options "")(descr ""))
 )
