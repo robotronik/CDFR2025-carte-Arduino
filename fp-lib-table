@@ -4,4 +4,7 @@
   (lib (name "TerminalBlockBend")(type "KiCad")(uri "${KIPRJMOD}/lib/TerminalBlockBend.pretty")(options "")(descr ""))
   (lib (name "A4988")(type "KiCad")(uri "${KIPRJMOD}/lib/A4988.pretty")(options "")(descr ""))
   (lib (name "lm2596")(type "KiCad")(uri "${KIPRJMOD}/lib/LM2596.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "LM2596")(type "KiCad")(uri "${KIPRJMOD}/lib/LM2596.pretty")(options "")(descr ""))
+  (lib (name "TEL_15-2411")(type "KiCad")(uri "${KIPRJMOD}/lib/Tracopower/TEL_15-2411.pretty")(options "")(descr ""))
 )

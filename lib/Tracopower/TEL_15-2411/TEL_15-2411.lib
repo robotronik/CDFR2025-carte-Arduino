@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TEL_15-2411
+#/1394238/1594237/2.50/4/2/Power Supply
+DEF TEL_15-2411 PS 0 30 Y Y 1 F N
+F0 "PS" 1550 300 50 H V L CNN
+F1 "TEL_15-2411" 1550 200 50 H V L CNN
+F2 "TEL151211" 1550 100 50 H I L CNN
+F3 "https://tracopower.com/tel15-datasheet/" 1550 0 50 H I L CNN
+F4 "15 Watt DC/DC converter, industrial, 2:1 input, high reliability, encapsulated, 2\" x 1\" metal package" 1550 -100 50 H I L CNN "Description"
+F5 "10.45" 1550 -200 50 H I L CNN "Height"
+F6 "Traco Power" 1550 -300 50 H I L CNN "Manufacturer_Name"
+F7 "TEL 15-2411" 1550 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "495-TEL-15-2411" 1550 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TRACO-Power/TEL-15-2411?qs=ckJk83FOD0XH973iKTQYww%3D%3D" 1550 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "TEL 15-2411" 1550 -700 50 H I L CNN "Arrow Part Number"
+F11 "http://www.arrow.com/en/products/tel15-2411/traco-power" 1550 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X +VIN_(VCC) 1 0 -100 200 R 50 50 0 0 P
+X -VIN_(GND) 2 0 0 200 R 50 50 0 0 P
+X +VOUT 3 1700 -100 200 L 50 50 0 0 P
+X -VOUT 5 1700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1500 100 1500 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

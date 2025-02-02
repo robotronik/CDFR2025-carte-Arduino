@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "empreinte_arduino")(type "KiCad")(uri "${KIPRJMOD}/lib/MEGA_PRO_EMBED_CH340G___ATMEGA2560.kicad_sym")(options "")(descr ""))
   (lib (name "yaaj_dcdc_stepdown_lm2596")(type "Legacy")(uri "${KIPRJMOD}/lib/yaaj_dcdc_stepdown_lm2596.lib")(options "")(descr ""))
+  (lib (name "TEL_15-2411")(type "KiCad")(uri "${KIPRJMOD}/lib/Tracopower/TEL_15-2411/TEL_15-2411.kicad_sym")(options "")(descr ""))
 )
