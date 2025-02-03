@@ -7,4 +7,6 @@
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
   (lib (name "LM2596")(type "KiCad")(uri "${KIPRJMOD}/lib/LM2596.pretty")(options "")(descr ""))
   (lib (name "TEL_15-2411")(type "KiCad")(uri "${KIPRJMOD}/lib/Tracopower/TEL_15-2411.pretty")(options "")(descr ""))
+  (lib (name "Silkscreen")(type "KiCad")(uri "${KIPRJMOD}/lib/Silkscreen.pretty")(options "")(descr ""))
+  (lib (name "FuseHolder")(type "KiCad")(uri "${KIPRJMOD}/lib/FuseHolder.pretty")(options "")(descr ""))
 )
