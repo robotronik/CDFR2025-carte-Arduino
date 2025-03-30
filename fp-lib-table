@@ -10,4 +10,5 @@
   (lib (name "Silkscreen")(type "KiCad")(uri "${KIPRJMOD}/lib/Silkscreen.pretty")(options "")(descr ""))
   (lib (name "FuseHolder")(type "KiCad")(uri "${KIPRJMOD}/lib/FuseHolder.pretty")(options "")(descr ""))
   (lib (name "MagIC_THT_Wurth")(type "KiCad")(uri "${KIPRJMOD}/lib/WE/KiCad_MagIC-FDSM (rev25a)/footprints/MagIC_THT_Wurth.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/footprints.pretty")(options "")(descr ""))
 )

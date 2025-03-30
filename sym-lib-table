@@ -4,4 +4,6 @@
   (lib (name "yaaj_dcdc_stepdown_lm2596")(type "Legacy")(uri "${KIPRJMOD}/lib/yaaj_dcdc_stepdown_lm2596.lib")(options "")(descr ""))
   (lib (name "TEL_15-2411")(type "KiCad")(uri "${KIPRJMOD}/lib/Tracopower/TEL_15-2411/TEL_15-2411.kicad_sym")(options "")(descr ""))
   (lib (name "MagIC_Wurth_MagIC-FDSM")(type "KiCad")(uri "${KIPRJMOD}/lib/WE/KiCad_MagIC-FDSM (rev25a)/symbols/MagIC_Wurth_MagIC-FDSM.kicad_sym")(options "")(descr ""))
+  (lib (name "MP2329C")(type "KiCad")(uri "E:/Ludovic/Downloads/ul_MP2329CGG-P/KiCADv6/MP2329C.kicad_sym")(options "")(descr ""))
+  (lib (name "MP2236")(type "KiCad")(uri "${KIPRJMOD}/lib/MonolithicPower/MP2236.kicad_sym")(options "")(descr ""))
 )
